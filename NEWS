@@ -1,4 +1,4 @@
-0.5.27 -- 19 Mar 2015
+0.5.27 -- 23 Mar 2015
 
 Reimplement geom_ribbon as a basic polygon. Fix #191. Fix #192.
 
