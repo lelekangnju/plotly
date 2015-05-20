@@ -50,3 +50,4 @@ test_that("coord_fixed() is translated to the right height-width ratio", {
   yx_ratio <- (y_range[2] - y_range[1]) / (x_range[2] - x_range[1])
   expect_identical(la$height/la$width, yx_ratio * p$coordinates$ratio)
 })
+
